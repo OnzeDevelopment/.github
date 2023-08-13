@@ -1,12 +1,9 @@
-## Hi there 👋
+# Current Projects
+The objective of this file is to list all our current projects.
 
-<!--
+## 🎧 ➜  [Daily Music](https://discord.com/application-directory/1115972980984516719)
+A Discord bot that lets you discover new music every day, engage your community and increase activity on your server.                                                                                                    
+Set up the system and receive the music of the day, share it with your community and expand your musical culture.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> [!NOTE]  
+> This project was published in June 2023.
