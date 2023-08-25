@@ -8,3 +8,11 @@ Come and join us at home by clicking [here](https://discord.gg/pqjxCxzNC3).
 
 > [!NOTE]  
 > This project was published in June 2023.
+
+## 🪄 [AutomodRx](https://automodrx.xyz)
+A website that lists useful REGEX expressions for Discord's AutoMod feature.                                                                                                                                                                                                                            
+Find the patterns you need and add them to your server in just a few clicks.                                                                                                                                                                                                                            
+Come and join us at home by clicking [here](https://discord.gg/pqjxCxzNC3).
+
+> [!NOTE]  
+> This project was published in August 2023.
